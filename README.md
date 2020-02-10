@@ -1,0 +1,2 @@
+# BoloChatApp
+ Chat app is android based chat app that is widely used in the form of messengers WhatsApp, Facebook messenger, etc. that is used to interact/ engage with other user of the app it’s the app where users can find new peoples and engage with them easily in and they can have new friends. Main basic app that provides the users an instant and secure app without any limitations of messages using internet so they can share greetings with their friends, family or colleges
